@@ -1,0 +1,12 @@
+   <DOCTYPE html>
+     <html lang="fr">
+        <head>
+            <meta charset="utf-8">
+            <title>Le titre de ma page web</title>
+            <link href="style.css" rel="stylesheet">
+        </head>
+        <body>
+            <hl class="gros-titre">Bienvenue !</hl>
+            <p>Mon paragraphe de texte</p>
+        </body>
+     </html>
